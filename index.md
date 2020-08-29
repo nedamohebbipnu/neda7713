@@ -34,6 +34,5 @@ I am a computer engineering student at payame noor university in north tehran .
 - Persian(Advanced)
 - English(Intermediate)
 
-+ somwwhat fluent in English
-+ top rp
+### Other Accounts
 + Quera Account: <a href="http://Quera.ir/profile/nedamohebbipnu"> Quera </a>
