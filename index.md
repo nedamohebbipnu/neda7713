@@ -2,9 +2,37 @@
 ### About Me
 I am a computer engineering student at payame noor university in north tehran .
 ### Details
+- First Name: Neda
+- Last Name: Mohebbi
+- Birth Date: 1377/10/04
+- Marriage Status: Single
+- Job Status: Student
+- Location: Tehran
+- Phone Number: 09376263168
+- Gmail: nedamohebbipnu@gmail.com
+
+### Skills
+- Microsoft Word
+- Microsoft Powepoint
+- Microsoft Excel
+- Microsoft Windows
+
 ### Job Experience
+- Nothing
+
 ### Certificates & Licences
+- ICDL 
+
 ### Education
+- Diploma (math & physics)
+- Studying undergraduate in Payam noor university
+
+### Titles and Honors
+- Third place in the scientific conference of Kharazmi Festival
+
+### Languages
+- Persian(Advanced)
+- English(Intermediate)
 
 + somwwhat fluent in English
 + top rp
