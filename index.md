@@ -36,3 +36,4 @@ I am a computer engineering student at payame noor university in north tehran .
 
 ### Other Accounts
 + Quera Account: <a href="http://Quera.ir/profile/nedamohebbipnu"> Quera </a>
++ Persian Resume: <a href="https://nedamohebbipnu.github.io/neda7713_fa/"> Resume </a>
